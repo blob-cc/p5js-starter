@@ -1,0 +1,17 @@
+{
+    "name": "p5js-creative-coding-starter",
+    "version": "1.0.0",
+    "description": "A starter template for creative coding with p5.js",
+    "scripts": {
+      "start": "parcel index.html --open",
+      "build": "parcel build index.html",
+      "deploy": "gh-pages -d dist"
+    },
+    "devDependencies": {
+      "parcel": "^2.0.0",
+      "gh-pages": "^3.0.0"
+    },
+    "keywords": ["p5.js", "creative coding", "template"],
+    "author": "Your Name",
+    "license": "MIT"
+  }
